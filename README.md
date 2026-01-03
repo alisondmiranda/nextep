@@ -1,5 +1,3 @@
-//PRD (Product Requirements Document)
-
 # Nextep - Hub Inteligente de Entretenimento
 
 ## 🎯 Visão Geral
